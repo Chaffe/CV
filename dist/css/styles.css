@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
-* Copyright 2013-2020 Start Bootstrap
+* Copyright 2013-2022 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
 */
 /*!
@@ -10043,17 +10043,8 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    /* width: 450px;
-    height: 450px; */
-    /* height: 100%; */
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
-
-  .img-profile {
-    /* width: 500px;
-    height: 500px; */
-  }
-
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
